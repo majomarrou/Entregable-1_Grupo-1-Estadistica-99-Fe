@@ -1,0 +1,228 @@
+name,slug,value,date_of_information,ranking,region
+Afghanistan,afghanistan,103.06, est.,1,South Asia
+Somalia,somalia,85.06, est.,2,Africa
+Central African Republic,central-african-republic,81.74, est.,3,Africa
+Equatorial Guinea,equatorial-guinea,77.85, est.,4,Africa
+Sierra Leone,sierra-leone,72.30, est.,5,Africa
+Niger,niger,65.53, est.,6,Africa
+Chad,chad,63.99, est.,7,Africa
+South Sudan,south-sudan,61.63, est.,8,Africa
+Mozambique,mozambique,59.77, est.,9,Africa
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,59.12, est.,10,Africa
+Mali,mali,58.99, est.,11,Africa
+Angola,angola,57.20, est.,12,Africa
+Comoros,comoros,56.01, est.,13,Africa
+Nigeria,nigeria,55.17, est.,14,Africa
+Benin,benin,54.33, est.,15,Africa
+Cote d'Ivoire,cote-divoire,54.04, est.,16,Africa
+Pakistan,pakistan,52.73, est.,17,South Asia
+Mauritania,mauritania,49.95, est.,18,Africa
+Guinea,guinea,48.32, est.,19,Africa
+Burkina Faso,burkina-faso,48.17, est.,20,Africa
+Guinea-Bissau,guinea-bissau,47.69, est.,21,Africa
+Cameroon,cameroon,47.40, est.,22,Africa
+Lesotho,lesotho,47.04, est.,23,Africa
+"Congo, Republic of the",congo-republic-of-the,46.62, est.,24,Africa
+Djibouti,djibouti,46.02, est.,25,Africa
+Yemen,yemen,45.54, est.,26,Middle East
+Sao Tome and Principe,sao-tome-and-principe,43.48, est.,27,Africa
+Liberia,liberia,43.20, est.,28,Africa
+Sudan,sudan,41.40, est.,29,Africa
+Eritrea,eritrea,40.63, est.,30,Africa
+Togo,togo,39.79, est.,31,Africa
+Haiti,haiti,38.78, est.,32,Central America and the Caribbean
+Madagascar,madagascar,38.27, est.,33,Africa
+Eswatini,eswatini,38.12, est.,34,Africa
+Burundi,burundi,36.75, est.,35,Africa
+Turkmenistan,turkmenistan,36.72, est.,36,Central Asia
+Laos,laos,36.56, est.,37,East and Southeast Asia
+"Gambia, The",gambia-the,36.44, est.,38,Africa
+Zambia,zambia,36.33, est.,39,Africa
+Timor-Leste,timor-leste,32.93, est.,40,East and Southeast Asia
+Papua New Guinea,papua-new-guinea,32.81, est.,41,East and Southeast Asia
+Malawi,malawi,32.68, est.,42,Africa
+Ethiopia,ethiopia,32.44, est.,43,Africa
+Burma,burma,32.20, est.,44,East and Southeast Asia
+Kiribati,kiribati,32.20, est.,45,Australia and Oceania
+Ghana,ghana,31.87, est.,46,Africa
+Senegal,senegal,31.75, est.,47,Africa
+Tajikistan,tajikistan,31.62, est.,48,Central Asia
+India,india,30.36, est.,49,South Asia
+Tanzania,tanzania,30.25, est.,50,Africa
+Suriname,suriname,29.91, est.,51,South America
+Bangladesh,bangladesh,29.58, est.,52,South Asia
+Uganda,uganda,29.44, est.,53,Africa
+Cambodia,cambodia,28.75, est.,54,East and Southeast Asia
+Namibia,namibia,28.49, est.,55,Africa
+Tuvalu,tuvalu,28.32, est.,56,Australia and Oceania
+Gabon,gabon,27.70, est.,57,Africa
+Zimbabwe,zimbabwe,27.67, est.,58,Africa
+Kenya,kenya,26.94, est.,59,Africa
+Rwanda,rwanda,25.64, est.,60,Africa
+Bhutan,bhutan,25.61, est.,61,South Asia
+Guatemala,guatemala,25.57, est.,62,Central America and the Caribbean
+Kyrgyzstan,kyrgyzstan,25.08, est.,63,Central Asia
+Maldives,maldives,25.02, est.,64,South Asia
+South Africa,south-africa,24.99, est.,65,Africa
+Kosovo,kosovo,24.93, est.,66,Europe
+Nepal,nepal,24.55, est.,67,South Asia
+Botswana,botswana,24.41, est.,68,Africa
+Cabo Verde,cabo-verde,22.96, est.,69,Africa
+Azerbaijan,azerbaijan,22.93, est.,70,Middle East
+Paraguay,paraguay,22.60, est.,71,South America
+Bolivia,bolivia,22.28, est.,72,South America
+Philippines,philippines,22.14, est.,73,East and Southeast Asia
+"Korea, North",korea-north,22.00, est.,74,East and Southeast Asia
+Guyana,guyana,21.63, est.,75,South America
+"Micronesia, Federated States of",micronesia-federated-states-of,21.37, est.,76,Australia and Oceania
+Marshall Islands,marshall-islands,21.13, est.,77,Australia and Oceania
+Dominican Republic,dominican-republic,20.68, est.,78,Central America and the Caribbean
+Mongolia,mongolia,19.77, est.,79,East and Southeast Asia
+Solomon Islands,solomon-islands,19.53, est.,80,Australia and Oceania
+Indonesia,indonesia,19.31, est.,81,East and Southeast Asia
+Algeria,algeria,19.22, est.,82,Africa
+Iraq,iraq,19.17, est.,83,Middle East
+Turkey (Turkiye),turkey-turkiye,18.85, est.,84,Middle East
+Kazakhstan,kazakhstan,18.77, est.,85,Central Asia
+Morocco,morocco,18.73, est.,86,Africa
+Nicaragua,nicaragua,18.63, est.,87,Central America and the Caribbean
+"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,18.62, est.,88,Africa
+Uzbekistan,uzbekistan,18.55, est.,89,Central Asia
+Samoa,samoa,17.76, est.,90,Australia and Oceania
+Ecuador,ecuador,17.72, est.,91,South America
+Egypt,egypt,17.27, est.,92,Africa
+Cook Islands,cook-islands,15.53, est.,93,Australia and Oceania
+Syria,syria,15.48, est.,94,Middle East
+Trinidad and Tobago,trinidad-and-tobago,15.44, est.,95,Central America and the Caribbean
+Panama,panama,15.28, est.,96,Central America and the Caribbean
+West Bank,west-bank,14.91, est.,97,Middle East
+Gaza Strip,gaza-strip,14.87, est.,98,Middle East
+Honduras,honduras,14.77, est.,99,Central America and the Caribbean
+Iran,iran,14.58, est.,100,Middle East
+Georgia,georgia,14.45, est.,101,Middle East
+Vietnam,vietnam,14.42, est.,102,East and Southeast Asia
+Oman,oman,14.16, est.,103,Middle East
+Venezuela,venezuela,14.10, est.,104,South America
+Vanuatu,vanuatu,14.00, est.,105,Australia and Oceania
+Antigua and Barbuda,antigua-and-barbuda,13.95, est.,106,Central America and the Caribbean
+British Virgin Islands,british-virgin-islands,13.77, est.,107,Central America and the Caribbean
+Jordan,jordan,13.56, est.,108,Middle East
+Brazil,brazil,13.11, est.,109,South America
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,12.59, est.,110,Central America and the Caribbean
+"Bahamas, The",bahamas-the,12.52, est.,111,Central America and the Caribbean
+Northern Mariana Islands,northern-mariana-islands,12.17, est.,112,Australia and Oceania
+Tonga,tonga,12.10, est.,113,Australia and Oceania
+Mexico,mexico,12.00, est.,114,North America
+Saudi Arabia,saudi-arabia,11.97, est.,115,Middle East
+El Salvador,el-salvador,11.90, est.,116,Central America and the Caribbean
+Armenia,armenia,11.89, est.,117,Middle East
+Mauritius,mauritius,11.84, est.,118,Africa
+Aruba,aruba,11.79, est.,119,Central America and the Caribbean
+Saint Lucia,saint-lucia,11.75, est.,120,Central America and the Caribbean
+Colombia,colombia,11.65, est.,121,South America
+Tunisia,tunisia,11.57, est.,122,Africa
+Moldova,moldova,11.38, est.,123,Europe
+Turks and Caicos Islands,turks-and-caicos-islands,11.32, est.,124,Central America and the Caribbean
+Guam,guam,11.20, est.,125,Australia and Oceania
+Palau,palau,11.04, est.,126,Australia and Oceania
+Dominica,dominica,11.00, est.,127,Central America and the Caribbean
+Libya,libya,10.95, est.,128,Africa
+Jamaica,jamaica,10.92, est.,129,Central America and the Caribbean
+Belize,belize,10.90, est.,130,Central America and the Caribbean
+Peru,peru,10.80, est.,131,South America
+Albania,albania,10.54, est.,132,Europe
+Seychelles,seychelles,10.38, est.,133,Africa
+Brunei,brunei,10.26, est.,134,East and Southeast Asia
+Montserrat,montserrat,10.04, est.,135,Central America and the Caribbean
+Bahrain,bahrain,9.98, est.,136,Middle East
+American Samoa,american-samoa,9.87, est.,137,Australia and Oceania
+Fiji,fiji,9.85, est.,138,Australia and Oceania
+Barbados,barbados,9.79, est.,139,Central America and the Caribbean
+Grenada,grenada,9.20, est.,140,Central America and the Caribbean
+Argentina,argentina,9.14, est.,141,South America
+Greenland,greenland,8.60, est.,142,North America
+Croatia,croatia,8.58, est.,143,Europe
+Costa Rica,costa-rica,8.20, est.,144,Central America and the Caribbean
+Cyprus,cyprus,8.20, est.,145,Europe
+Saint Kitts and Nevis,saint-kitts-and-nevis,8.19, est.,146,Central America and the Caribbean
+Uruguay,uruguay,8.14, est.,147,South America
+Sri Lanka,sri-lanka,08.04, est.,148,South Asia
+Saint Pierre and Miquelon,saint-pierre-and-miquelon,7.97, est.,149,North America
+Bulgaria,bulgaria,7.82, est.,150,Europe
+Sint Maarten,sint-maarten,7.81, est.,151,Central America and the Caribbean
+Nauru,nauru,7.72, est.,152,Australia and Oceania
+Curacao,curacao,7.70, est.,153,Central America and the Caribbean
+Virgin Islands,virgin-islands,7.49, est.,154,Central America and the Caribbean
+Cayman Islands,cayman-islands,7.47, est.,155,Central America and the Caribbean
+Kuwait,kuwait,7.27, est.,156,Middle East
+Ukraine,ukraine,7.21, est.,157,Europe
+North Macedonia,north-macedonia,7.16, est.,158,Europe
+Lebanon,lebanon,6.88, est.,159,Middle East
+Saint Barthelemy,saint-barthelemy,6.58, est.,160,Central America and the Caribbean
+Saint Martin,saint-martin,6.58, est.,161,Central America and the Caribbean
+China,china,6.49, est.,162,East and Southeast Asia
+Malaysia,malaysia,6.49, est.,163,East and Southeast Asia
+Qatar,qatar,6.46, est.,164,Middle East
+Chile,chile,6.41, est.,165,South America
+San Marino,san-marino,6.36, est.,166,Europe
+Thailand,thailand,6.36, est.,167,East and Southeast Asia
+Russia,russia,6.33, est.,168,Central Asia
+Gibraltar,gibraltar,6.13, est.,169,Europe
+Puerto Rico,puerto-rico,5.92, est.,170,Central America and the Caribbean
+Faroe Islands,faroe-islands,5.86, est.,171,Europe
+Romania,romania,5.65, est.,172,Europe
+United States,united-states,5.12, est.,173,North America
+Bosnia and Herzegovina,bosnia-and-herzegovina,5.10, est.,174,Europe
+United Arab Emirates,united-arab-emirates,05.06, est.,175,Middle East
+New Caledonia,new-caledonia,4.92, est.,176,Australia and Oceania
+Latvia,latvia,4.78, est.,177,Europe
+Slovakia,slovakia,4.74, est.,178,Europe
+Hungary,hungary,4.55, est.,179,Europe
+Serbia,serbia,4.55, est.,180,Europe
+Macau,macau,4.50, est.,181,East and Southeast Asia
+Malta,malta,4.45, est.,182,Europe
+French Polynesia,french-polynesia,4.34, est.,183,Australia and Oceania
+Canada,canada,4.31, est.,184,North America
+Isle of Man,isle-of-man,4.16, est.,185,Europe
+Poland,poland,4.10, est.,186,Europe
+Cuba,cuba,04.07, est.,187,Central America and the Caribbean
+Liechtenstein,liechtenstein,3.98, est.,188,Europe
+Wallis and Futuna,wallis-and-futuna,3.94, est.,189,Australia and Oceania
+Taiwan,taiwan,3.90, est.,190,East and Southeast Asia
+Jersey,jersey,3.81, est.,191,Europe
+United Kingdom,united-kingdom,3.79, est.,192,Europe
+Lithuania,lithuania,3.61, est.,193,Europe
+Switzerland,switzerland,3.51, est.,194,Europe
+Greece,greece,3.49, est.,195,Europe
+Israel,israel,3.49, est.,196,Middle East
+Ireland,ireland,3.41, est.,197,Europe
+Andorra,andorra,3.39, est.,198,Europe
+New Zealand,new-zealand,3.39, est.,199,Australia and Oceania
+Estonia,estonia,3.38, est.,200,Europe
+Netherlands,netherlands,3.34, est.,201,Europe
+Guernsey,guernsey,3.30, est.,202,Europe
+Belarus,belarus,3.23, est.,203,Europe
+Luxembourg,luxembourg,3.21, est.,204,Europe
+Austria,austria,3.20, est.,205,Europe
+Montenegro,montenegro,3.20, est.,206,Europe
+Belgium,belgium,3.15, est.,207,Europe
+Germany,germany,3.14, est.,208,Europe
+Italy,italy,3.11, est.,209,Europe
+France,france,3.10, est.,210,Europe
+Anguilla,anguilla,03.02, est.,211,Central America and the Caribbean
+Denmark,denmark,3.00, est.,212,Europe
+Australia,australia,2.96, est.,213,Australia and Oceania
+"Korea, South",korea-south,2.83, est.,214,East and Southeast Asia
+Hong Kong,hong-kong,2.52, est.,215,East and Southeast Asia
+Portugal,portugal,2.47, est.,216,Europe
+Spain,spain,2.43, est.,217,Europe
+Czechia,czechia,2.37, est.,218,Europe
+Norway,norway,2.28, est.,219,Europe
+Sweden,sweden,2.28, est.,220,Europe
+Bermuda,bermuda,2.17, est.,221,North America
+Finland,finland,2.11, est.,222,Europe
+Japan,japan,1.88, est.,223,East and Southeast Asia
+Monaco,monaco,1.75, est.,224,Europe
+Iceland,iceland,1.63, est.,225,Europe
+Singapore,singapore,1.54, est.,226,East and Southeast Asia
+Slovenia,slovenia,1.51, est.,227,Europe
