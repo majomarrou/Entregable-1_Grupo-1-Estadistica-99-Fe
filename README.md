@@ -10,9 +10,9 @@
   
 -  Jose Navarro Nateros (20202279)
 
-***Tema de investigación: La mortalidad infantil y su relación con la capacidad estatal. 
+**Tema de investigación: La mortalidad infantil y su relación con la capacidad estatal.**
 
-***Variable dependiente: Tasa de mortalidad infantil en los países del mundo (CIA)
+**Variable dependiente: Tasa de mortalidad infantil en los países del mundo (CIA)**
 
 Refleja el porcentaje del resultado final de la tasa de mortalidad infatil en los países del mundo. Apartado de https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison
 
