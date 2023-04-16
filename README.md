@@ -20,9 +20,7 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
 
 **Variables independientes:** (María José)
 
-**- Desnutrición** 
-
-[Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244792/Desnutricion.csv)
+**- Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244792/Desnutricion.csv)
 
 
    Revisa el indicador de prevalencia de desnutrición, peso para la edad (% de niños menores de cinco años). Apartado de: https://datos.bancomundial.org/indicator/SH.STA.MALN.ZS
