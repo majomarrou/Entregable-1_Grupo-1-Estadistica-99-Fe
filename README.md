@@ -18,7 +18,7 @@ Refleja el porcentaje del resultado final de la tasa de mortalidad infantil en l
 
 La mortalidad infantil es un problema estructural que se refleja a causa de la desigualdad social existente en los diferentes países del mundo. Es importante relacionar este indicador con la capacidad estatal que tiene cada país en aras de poder medir el aumento o disminución de la tasa de mortalidad de infantil de acuerdo a la influencia que tienen las variables independientes que proponemos. 
 
-**Variables independiente** (María José)
+**Variables independientes:** (María José)
 
 **Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243392/Desnutricion.csv)
 
