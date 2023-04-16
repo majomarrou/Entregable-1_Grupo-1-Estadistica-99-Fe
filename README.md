@@ -20,20 +20,23 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
 
 **Variables independientes:** (María José)
 
-**- Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-     fe/files/11243392/Desnutricion.csv)
+**- Desnutrición** 
+[Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-     fe/files/11243392/Desnutricion.csv)
 
    Revisa el indicador de prevalencia de desnutrición, peso para la edad (% de niños menores de cinco años). Apartado de: https://datos.bancomundial.org/indicator/SH.STA.MALN.ZS
 
    La relacion existente entre la desnutrición y la mortalidad infantil es importante, ya que, un infante que no está bien nutrido tiene más probabilidades de tener un sistema inmunológico con defensas bajas, lo que lo hace más propenso a contraer enfermedades mortales. Siendo asi, es importante tener en cuenta que los niños que padecen de desnutrición crónica tienen más propabilidad de fallecer (Pelletier et. all, 2015). Según la UNICEF (1998), la desnutrición es uno de los factores principales de la muerte de los niños menores de 5 años en los países en desarrollo. Para ello es imperativo medir el nivel de desnutrición en cada país como un indicador de cuanta capacidad estatal tiene dicho país en materia de politicas públicas para su erradicación.  
 
-  **- Infraestructura de Carreteras** [Roads.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243832/Roads.csv)
+  **- Infraestructura de Carreteras** 
+  [Roads.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243832/Roads.csv)
 
   Compara la longitud total de la red de carreteras e incluye la longitud de las partes asfaltadas y sin asfaltar.
   Apartado de: https://www.cia.gov/the-world-factbook/field/roadways/country-comparison
 
   Las carreteras son una variable importante en relacion con la mortlaidad infantil debido a que en la ausencia de ellas, la distribución de recursos es una tarea más retadora que determinaría si es que los infantes recibirían los recursos que necesitan para su supervivencia, de la misma manera, su importancia es necesaria para el traslado del infante a un centro de salud en garantía de aumentar su expectativa de vida ya sea para la vacunación, checkeo médicos o para un emergencia mortal. El Estado está en la responsabilidad de proveer dichas carreteras como un bien público que, a la vez, sería un indicador directo de su capacidad.
 
-  **- Gasto en educación**  [Educacion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244705/Educacion.csv)
+  **- Gasto en educación** 
+  [Educacion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244705/Educacion.csv)
 
   Esta variable compara el gasto público en educación como porcentaje del PIB.
   Apartado de: https://www.cia.gov/the-world-factbook/field/education-expenditures/country-comparison
