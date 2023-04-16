@@ -13,3 +13,4 @@
 -  Jose Navarro Nateros (20202279)
 
 # 
+Variables
