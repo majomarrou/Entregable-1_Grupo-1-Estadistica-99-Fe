@@ -100,19 +100,23 @@ _Edgar_
 
   El sobrepeso en niños y adolescentes aumenta el riesgo de padecer enfermedades a edades tempranas y a lo largo de su vida, y puede provocar problemas psicológicos y sociales (FAO et al., 2020, p. 38). Además, puede ser un indicador de bajos niveles de estatalidad, ya que puede haber una falta de servicios de atención médica de calidad y políticas alimentarias y nutricionales saludables que podrían reducir la prevalencia del sobrepeso y contribuir a reducir la mortalidad infantil.
   
+  
   _Jose_
   
 **- Niños menores de 5 años con bajo peso (menbajp)**
+  
   La variable nos da el % de niños menores de 5 años con un peso por debajo del esperado según su edad. Como tal, para menores de 1 año serían niños pesando 2 kg menos que el promedio de su edad, para niños de 2 y 3 sería 3kg, y para niños de 4 y 5 años sería 4 kg. Extraído de https://www.cia.gov/the-world-factbook/field/children-under-the-age-of-5-years-underweight/country-comparison
   
   Que niños menores de 5 años estén en condición de "underweight" impacta de forma significativa la mortalidad infantil en el mundo. En el informe del 2019 de la UNICEF "Levels and Trends in Child Mortality 2019" se indica que estos niños con un peso por debajo del promedio tienen mayores probabilidades de morir durante estos primeros años de vida en comparación con quienes cuentan con un peso normal. En particular, este impacto de tener un peso menor al estándar se nota más en los niños entre 0 a 1 años, donde la mortalidad de estos alcanza el 60% de las muertes neonatales (primeros 28 días de vida) en el mundo. (UNICEF, 2019) 
   
 **- Expectativa de vida al nacer (expcvn)**
+  
   Esta variable compara el promedio de número de años vividos por un grupo de personas nacidos el mismo año, si es que la mortalidad a cada edad se mantiene constante en el futuro. También es una medida de la calidad de vida general de un país. Extraído de https://www.cia.gov/the-world-factbook/field/life-expectancy-at-birth/country-comparison
   
   Esta variable está relacionada con la mortalidad infantil puesto que una fuerte presencia de esta última en un país, naturalmente, afecta gravemente en la expectativa de vida general del mismo. De este modo, y corroborado en un estudio colaborativo publicado en la prestigiosa revista científica "The Lancet", una reducción en la mortalidad infantil en un país conlleva un aumento de la expectativa de vida del mismo. (Wang et al., 2014)
   
 **- Emisiones de dióxido de carbono (emnsdc)**
+ 
   La variable nos las emisiones de dióxico de carbono de los países resultado del consumo y producción de la energía, medido en toneladas métricas de CO2. Extraído de https://www.cia.gov/the-world-factbook/field/carbon-dioxide-emissions/country-comparison.
   
   Si bien la relación entre las emisiones de dióxido de carbono y la mortalidad infantil no puede quedar muy clara de buenas a primeras, en realidad sí tiene implicaciones importantes en la misma. Si bien puede no resultar muy significativo en cuanto países desarrollados que sí emiten grandes cantidades de CO2, sí puede resultarlo para países que también las emiten pero no son considerados "desarrollados" o no cuenten con políticas públicas que aminoren el impacto del mismo. En el estudio mostrado por Sarah Chapman y otros titulado "Pasado y proyección del impacto del cambio climático en la mortalidad infantil en África relacionada con el calor" se nos informa que la mortalidad infantil en África y en otros países con altas temperaturas la mortalidad infantil relacionada con el calor se verá sumamente incrementada en los próximos años producto del cambio climático (Chapman et al, 2022). Como tal, se estima que en los próximos años el número de muertes de infantes producto de este aumento en las temperaturas se duplique e incluso triplique, dependiendo del éxito o fracaso de políticas públicas globales como la del Acuerdo de París 2050, donde se espera fijar un límite en los aumentos de temperatura de solo 1,5°C.  
