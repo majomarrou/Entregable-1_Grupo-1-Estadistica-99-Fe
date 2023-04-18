@@ -43,10 +43,35 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
 
    El gasto de educación que un país tiene determina el nivel de mortalidad infantil en materia de conocimientos que se puede tener al momento de atender una emergencia mortal que puede afectar al infante. Asimismo, la concientización sobre el adecuado uso de los servicios médicos y de la opinión de un profesional de la salud esta directamente relacionado con la educacion en materia de conocimiento sobre las enfermedades mortales que existen y necesitan de una vacunación correcta y completa para asegurar la supervivencia del infante. Según Ana Cecilia Dammert (2001) al respecto de la educación de la madre del infante y su relación con la tasa de mortalidad infantil argumenta que: "la educación de la madre afecta el nivel de mortalidad infantil, a través de una mejor percepción sobre la gravedad de las enfermedades y síntomas, y tiene efectos positivos sobre la productividad y efectividad en el uso de los insumos de salud, de la misma manera, las mujeres más educadas tienden a utilizar más servicios de salud debido a que conocen mejor los beneficios positivos derivados de la atención con un profesional de salud". 
 
+**- Coeficiente de Gini**
+[Gini Index.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Gini%20Index.csv)
+  
+  Mide el grado de desigualdad en la distribución del ingreso familiar dentro de un país. Apartado: https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison
+ 
+   La importancia del coeficiente de Gini recae en su utilidad para identificar la desigualdad en los ingresos (por familia en este caso) dentro de un país. En ese sentido, esta variable nos ayudará a determinar si la desigualdad económica influye de forma significativa en la mortalidad infantil, siendo que podemos predecir que las familias con menos recursos tienen menos capacidad para brindar atenciones básicas y bienestar a sus infantes. 
+  
+  **- Índice de pobreza**
+  [Pobreza.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Pobreza.csv)
+  
+ Mide el nivel de población (en porcentaje) que vive bajo la línea de pobreza por países. Apartado: https://datos.bancomundial.org/indicator/SI.POV.NAHC?name_desc=false/https://www.indexmundi.com/g/r.aspx?v=69&l=es 
+ 
+  El nivel de pobreza en relación con la mortalidad infantil pretende identificar qué porcentaje de la población presenta desventajas económicas relevantes que puedan justificar directa o indirectamente la falta de acceso de los infantes a servicios y necesidades básicas. Según la ONG Manos Unidas (2014) para la lucha contra la pobreza, los niños representan a uno de los grupos más vulnerables ante esta condición debido a su dependencia física, emocional, económica y social. 
+ 
+ **- Índice de saneamiento**
+ [Saneamiento.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Saneamiento.csv)
+ 
+ Mide el nivel de población (en porcentaje) que usa, por lo menos, servicios de saneamiento básicos por países. Apartado: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-at-least-basic-sanitation-services-(-)
+
+  Tal como se menciona en el reporte de metas de desarrollo sostenible 2022 elaborado por la ONU el acceso seguro a agua, saneamiento e higiene representa una de las necesidades más básicas del ser humano para garantizar su salud y bienestar. En este mismo lineamiento, podemos aproximar que este indicador puede ser relevante a la hora de hablar de mortalidad infantil, pues la exposición de los menores a entornos insalubres los deja vulnerables al contagio de enfermedades, acortando así, su expectativa y calidad de vida.   
+
 Bibliografía:
 
 Dammert, A. C. (2001). Acceso a servicios de salud y mortalidad infantil en el Perú (Vol. 18). Consorcio de Investigación Económica y Social.
 https://core.ac.uk/download/pdf/7045507.pdf. Consultado el 16 de Abril del 2023
+
+Manos Unidas. (2014). Manos Unidas. Obtenido de Manos Unidas Web site: https://www.manosunidas.org/observatorio/pobreza-mundo. Consultado el 17 de abril del 2023.
+
+Organización de las Naciones Unidas . (2022). Organización de las Naciones Unidas. Obtenido de Sustainable development Agenda: https://www.un.org/sustainabledevelopment/water-and-sanitation/. Consultado el 17 de abril del 2023.
 
 Pelletier, D. L., Frongillo, E. A., Jr, Schroeder, D. G., & Habicht, J. P. (1994). A methodology for estimating the contribution of malnutrition to child mortality in developing countries. The Journal of nutrition, 124(10 Suppl), 2106S–2122S. https://doi.org/10.1093/jn/124.suppl_10.2106S. Consultado el 16 de Abril del 2023.
 
