@@ -18,7 +18,7 @@ Esta variable compara el número de muertes de niños menores de un año en un a
 
 La mortalidad infantil es un problema estructural que se refleja a causa de la desigualdad social existente en los diferentes países del mundo. Es importante relacionar este indicador con la capacidad estatal que tiene cada país en aras de poder medir el aumento o disminución de la tasa de mortalidad de infantil de acuerdo a la influencia que tienen las variables independientes que proponemos. 
 
-La tasa de mortalidad infantil es un factor crucial que muestra la salud general de una comunidad. Por ello, los gobiernos han hecho de la reducción de esta tasa uno de sus objetivos principales. Una capacidad estatal sólida permite establecer programas y políticas adecuadas que mejoren la atención médica infantil y reduzcan la mortalidad. El impacto de esto se extiende más allá de la salud, y puede influir positivamente en el desarrollo social y económico a largo plazo de la población. De esta manera,  es importante entender qué factores relacionados con la capacidad estatal pueden influir en la tasa de mortalidad infantil, para que se puedan tomar medidas efectivas para reducir esta tasa y mejorar la calidad de vida de la población infantil.
+La mortalidad infantil es un factor crucial que muestra la salud general de una comunidad. Por ello, los gobiernos han hecho de la reducción de esta tasa uno de sus objetivos principales. Una capacidad estatal sólida permite establecer programas y políticas adecuadas que mejoren la atención médica infantil y reduzcan la mortalidad. El impacto de esto se extiende más allá de la salud, y puede influir positivamente en el desarrollo social y económico a largo plazo de la población. De esta manera,  es importante entender qué factores relacionados con la capacidad estatal pueden influir en la tasa de mortalidad infantil, para que se puedan tomar medidas efectivas para reducir esta tasa y mejorar la calidad de vida de la población infantil.
 
 **Variables independientes:** 
 
@@ -50,7 +50,7 @@ _María José_
 
 
 
-_José_
+_Daniel_
 
 **-  Coeficiente de Gini**
 [Gini Index.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/dbc8d72ce349ba9d138bd2eba8ca7d69ddb2e96e/Gini%20Index.csv) 
