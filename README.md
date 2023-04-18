@@ -10,18 +10,20 @@
   
 -  Jose Navarro Nateros (20202279)
 
-**Tema de investigación: La mortalidad infantil y su relación con la capacidad estatal.** [Mortalidad infantil en el mundo - export.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243333/Mortalidad.infantil.en.el.mundo.-.export.csv)
+**Tema de investigación:** La mortalidad infantil y su relación con la capacidad estatal [Mortalidad infantil en el mundo - export.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243333/Mortalidad.infantil.en.el.mundo.-.export.csv)
 
-**Variable dependiente: Tasa de mortalidad infantil en los países del mundo (CIA)**
+**Variable dependiente:** Tasa de mortalidad infantil en los países del mundo
 
-Refleja el porcentaje del resultado final de la tasa de mortalidad infantil en los países del mundo. Apartado de: https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison
+Esta variable compara el número de muertes de niños menores de un año en un año determinado por cada 1.000 nacidos vivos en el mismo año. Apartado de: https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison
 
 La mortalidad infantil es un problema estructural que se refleja a causa de la desigualdad social existente en los diferentes países del mundo. Es importante relacionar este indicador con la capacidad estatal que tiene cada país en aras de poder medir el aumento o disminución de la tasa de mortalidad de infantil de acuerdo a la influencia que tienen las variables independientes que proponemos. 
+
+La tasa de mortalidad infantil es un factor crucial que muestra la salud general de una comunidad. Por ello, los gobiernos han hecho de la reducción de esta tasa uno de sus objetivos principales. Una capacidad estatal sólida permite establecer programas y políticas adecuadas que mejoren la atención médica infantil y reduzcan la mortalidad. El impacto de esto se extiende más allá de la salud, y puede influir positivamente en el desarrollo social y económico a largo plazo de la población. De esta manera,  es importante entender qué factores relacionados con la capacidad estatal pueden influir en la tasa de mortalidad infantil, para que se puedan tomar medidas efectivas para reducir esta tasa y mejorar la calidad de vida de la población infantil.
 
 **Variables independientes:** 
 
 
-_María José
+_María José_
 
 **-  Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244792/Desnutricion.csv)
 
@@ -46,7 +48,9 @@ _María José
    El gasto de educación que un país tiene determina el nivel de mortalidad infantil en materia de conocimientos que se puede tener al momento de atender una emergencia mortal que puede afectar al infante. Asimismo, la concientización sobre el adecuado uso de los servicios médicos y de la opinión de un profesional de la salud esta directamente relacionado con la educacion en materia de conocimiento sobre las enfermedades mortales que existen y necesitan de una vacunación correcta y completa para asegurar la supervivencia del infante. Según Ana Cecilia Dammert (2001) al respecto de la educación de la madre del infante y su relación con la tasa de mortalidad infantil argumenta que: "la educación de la madre afecta el nivel de mortalidad infantil, a través de una mejor percepción sobre la gravedad de las enfermedades y síntomas, y tiene efectos positivos sobre la productividad y efectividad en el uso de los insumos de salud, de la misma manera, las mujeres más educadas tienden a utilizar más servicios de salud debido a que conocen mejor los beneficios positivos derivados de la atención con un profesional de salud". 
 
 
-_José
+
+
+_José_
 
 **-  Coeficiente de Gini**
 [Gini Index.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/dbc8d72ce349ba9d138bd2eba8ca7d69ddb2e96e/Gini%20Index.csv) 
@@ -54,6 +58,7 @@ _José
   Mide el grado de desigualdad en la distribución del ingreso familiar dentro de un país. Apartado: https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison
  
    La importancia del coeficiente de Gini recae en su utilidad para identificar la desigualdad en los ingresos (por familia en este caso) dentro de un país. En ese sentido, esta variable nos ayudará a determinar si la desigualdad económica influye de forma significativa en la mortalidad infantil, siendo que podemos predecir que las familias con menos recursos tienen menos capacidad para brindar atenciones básicas y bienestar a sus infantes. 
+   
   
   **-  Índice de pobreza**
   [Pobreza.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/013c9e9dd8227c1db7eb7a7b66e52979b2e3ddd4/Pobreza.csv)
@@ -99,7 +104,7 @@ _Edgar_
   
   
 
-Bibliografía:
+**Bibliografía:**
 
 CEPAL. (2015). Desarrollo social inclusivo Una nueva generación de políticas para superar la pobreza y reducir la desigualdad en América Latina y el Caribe. https://www.cepal.org/sites/default/files/events/files/desarrollo_social_inclusivo.pdf. Consultado el 16 de Abril del 2023
 
