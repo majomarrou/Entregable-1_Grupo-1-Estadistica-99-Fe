@@ -44,21 +44,18 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
    El gasto de educación que un país tiene determina el nivel de mortalidad infantil en materia de conocimientos que se puede tener al momento de atender una emergencia mortal que puede afectar al infante. Asimismo, la concientización sobre el adecuado uso de los servicios médicos y de la opinión de un profesional de la salud esta directamente relacionado con la educacion en materia de conocimiento sobre las enfermedades mortales que existen y necesitan de una vacunación correcta y completa para asegurar la supervivencia del infante. Según Ana Cecilia Dammert (2001) al respecto de la educación de la madre del infante y su relación con la tasa de mortalidad infantil argumenta que: "la educación de la madre afecta el nivel de mortalidad infantil, a través de una mejor percepción sobre la gravedad de las enfermedades y síntomas, y tiene efectos positivos sobre la productividad y efectividad en el uso de los insumos de salud, de la misma manera, las mujeres más educadas tienden a utilizar más servicios de salud debido a que conocen mejor los beneficios positivos derivados de la atención con un profesional de salud". 
 
 **- Coeficiente de Gini**
-[Gini Index.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Gini%20Index.csv)
   
   Mide el grado de desigualdad en la distribución del ingreso familiar dentro de un país. Apartado: https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison
  
    La importancia del coeficiente de Gini recae en su utilidad para identificar la desigualdad en los ingresos (por familia en este caso) dentro de un país. En ese sentido, esta variable nos ayudará a determinar si la desigualdad económica influye de forma significativa en la mortalidad infantil, siendo que podemos predecir que las familias con menos recursos tienen menos capacidad para brindar atenciones básicas y bienestar a sus infantes. 
   
   **- Índice de pobreza**
-  [Pobreza.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Pobreza.csv)
   
  Mide el nivel de población (en porcentaje) que vive bajo la línea de pobreza por países. Apartado: https://datos.bancomundial.org/indicator/SI.POV.NAHC?name_desc=false/https://www.indexmundi.com/g/r.aspx?v=69&l=es 
  
   El nivel de pobreza en relación con la mortalidad infantil pretende identificar qué porcentaje de la población presenta desventajas económicas relevantes que puedan justificar directa o indirectamente la falta de acceso de los infantes a servicios y necesidades básicas. Según la ONG Manos Unidas (2014) para la lucha contra la pobreza, los niños representan a uno de los grupos más vulnerables ante esta condición debido a su dependencia física, emocional, económica y social. 
  
  **- Índice de saneamiento**
- [Saneamiento.cvs] (https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/00d855d7259960e601ad9a02a2b4956142a1af5e/Saneamiento.csv)
  
  Mide el nivel de población (en porcentaje) que usa, por lo menos, servicios de saneamiento básicos por países. Apartado: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-at-least-basic-sanitation-services-(-)
 
