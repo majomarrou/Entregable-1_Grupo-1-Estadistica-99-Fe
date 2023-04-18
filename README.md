@@ -23,13 +23,13 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
 
 _María José
 
-**- Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244792/Desnutricion.csv)
+**-  Desnutrición** [Desnutricion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244792/Desnutricion.csv)
 
    Revisa el indicador de prevalencia de desnutrición, peso para la edad (% de niños menores de cinco años). Apartado de: https://datos.bancomundial.org/indicator/SH.STA.MALN.ZS
 
    La relacion existente entre la desnutrición y la mortalidad infantil es importante, ya que, un infante que no está bien nutrido tiene más probabilidades de tener un sistema inmunológico con defensas bajas, lo que lo hace más propenso a contraer enfermedades mortales. Siendo asi, es importante tener en cuenta que los niños que padecen de desnutrición crónica tienen más propabilidad de fallecer (Pelletier et. all, 2015). Según la UNICEF (1998), la desnutrición es uno de los factores principales de la muerte de los niños menores de 5 años en los países en desarrollo. Para ello es imperativo medir el nivel de desnutrición en cada país como un indicador de cuanta capacidad estatal tiene dicho país en materia de politicas públicas para su erradicación.  
 
-  **- Infraestructura de Carreteras** 
+  **-  Infraestructura de Carreteras** 
   [Roads.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11243832/Roads.csv)
 
   Compara la longitud total de la red de carreteras e incluye la longitud de las partes asfaltadas y sin asfaltar.
@@ -37,7 +37,7 @@ _María José
 
   Las carreteras son una variable importante en relacion con la mortlaidad infantil debido a que en la ausencia de ellas, la distribución de recursos es una tarea más retadora que determinaría si es que los infantes recibirían los recursos que necesitan para su supervivencia, de la misma manera, su importancia es necesaria para el traslado del infante a un centro de salud en garantía de aumentar su expectativa de vida ya sea para la vacunación, checkeo médicos o para un emergencia mortal. El Estado está en la responsabilidad de proveer dichas carreteras como un bien público que, a la vez, sería un indicador directo de su capacidad.
 
-  **- Gasto en educación** 
+  **-  Gasto en educación** 
   [Educacion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244705/Educacion.csv)
 
   Esta variable compara el gasto público en educación como porcentaje del PIB.
@@ -48,21 +48,21 @@ _María José
 
 _José
 
-**- Coeficiente de Gini**
+**-  Coeficiente de Gini**
 [Gini Index.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/dbc8d72ce349ba9d138bd2eba8ca7d69ddb2e96e/Gini%20Index.csv) 
   
   Mide el grado de desigualdad en la distribución del ingreso familiar dentro de un país. Apartado: https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison
  
    La importancia del coeficiente de Gini recae en su utilidad para identificar la desigualdad en los ingresos (por familia en este caso) dentro de un país. En ese sentido, esta variable nos ayudará a determinar si la desigualdad económica influye de forma significativa en la mortalidad infantil, siendo que podemos predecir que las familias con menos recursos tienen menos capacidad para brindar atenciones básicas y bienestar a sus infantes. 
   
-  **- Índice de pobreza**
+  **-  Índice de pobreza**
   [Pobreza.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/013c9e9dd8227c1db7eb7a7b66e52979b2e3ddd4/Pobreza.csv)
   
  Mide el nivel de población (en porcentaje) que vive bajo la línea de pobreza por países. Apartado: https://datos.bancomundial.org/indicator/SI.POV.NAHC?name_desc=false/https://www.indexmundi.com/g/r.aspx?v=69&l=es 
  
   El nivel de pobreza en relación con la mortalidad infantil pretende identificar qué porcentaje de la población presenta desventajas económicas relevantes que puedan justificar directa o indirectamente la falta de acceso de los infantes a servicios y necesidades básicas. Según la ONG Manos Unidas (2014) para la lucha contra la pobreza, los niños representan a uno de los grupos más vulnerables ante esta condición debido a su dependencia física, emocional, económica y social. 
  
- **- Índice de saneamiento**
+ **-  Índice de saneamiento**
  [Saneamiento.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/013c9e9dd8227c1db7eb7a7b66e52979b2e3ddd4/Saneamiento.csv)
  
  Mide el nivel de población (en porcentaje) que usa, por lo menos, servicios de saneamiento básicos por países. Apartado: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-at-least-basic-sanitation-services-(-)
@@ -70,23 +70,25 @@ _José
   Tal como se menciona en el reporte de metas de desarrollo sostenible 2022 elaborado por la ONU el acceso seguro a agua, saneamiento e higiene representa una de las necesidades más básicas del ser humano para garantizar su salud y bienestar. En este mismo lineamiento, podemos aproximar que este indicador puede ser relevante a la hora de hablar de mortalidad infantil, pues la exposición de los menores a entornos insalubres los deja vulnerables al contagio de enfermedades, acortando así, su expectativa y calidad de vida.   
   
   
-_Edgar
+  
+  
+_Edgar_
 
-**- Atención medica prenatal (atenpr)** 
+**-  Atención medica prenatal (atenpr)** 
 [atenpre.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11257630/atenpre.csv)
 
    La variable hace referencia a la proporción de mujeres que reciben atención médica prenatal al menos una vez durante el embarazo por parte de personal de salud capacitado. Extraído de https://datos.bancomundial.org/indicator/SH.STA.MALN.ZS
    
    La atención médica prenatal es esencial para reducir la mortalidad infantil al detectar y tratar cualquier problema de salud que pueda afectar al feto o a la madre durante el embarazo. Además, la atención primaria en general, y en particular la que se enfoca en la salud materna e infantil, es un indicador de la relación entre el Estado y los ciudadanos que se encuentran en zonas más alejadas (Malca 2020, p. 27). Así, el porcentaje de embarazadas que reciben atención médica prenatal puede explicar la calidad y accesibilidad del sistema de salud de un país, lo que está relacionado con el nivel de desarrollo y estatalidad del país. 
 
-**- Políticas de inclusión y equidad social (polineq)** 
+**-  Políticas de inclusión y equidad social (polineq)** 
 [polineq.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11257654/polineq.csv)
 
   La variable se refiere a la calidad y efectividad de las políticas de un país en términos de inclusión y equidad social, según la CPIA, herramienta de evaluación utilizada por el Banco Mundial. Extraído de https://www.cia.gov/the-world-factbook/field/roadways/country-comparison
 
   Una mayor calidad de las políticas e instituciones relacionadas con la inclusión y la equidad social puede contribuir a fortalecer la capacidad del Estado para proporcionar servicios públicos esenciales, incluyendo atención médica prenatal y cuidado de la salud infantil, lo que puede reducir la mortalidad infantil. Justamente, la CEPAL señala que se necesitan medidas estructurales para ampliar los espacios de inclusión social y económica de amplios sectores de la población, a fin de lograr los objetivos de la política social (2015, p. 68)
 
-**- Sobrepeso infantil (sobrep)** 
+**-  Sobrepeso infantil (sobrep)** 
 [sobrep.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11257676/sobrep.csv)
 
   La variable se refiere al porcentaje de niños menores de cinco cuyo peso está encima de la mediana de la población internacional según los estándares de desarrollo infantil publicados por la OMS. Extraído de https://www.cia.gov/the-world-factbook/field/education-expenditures/country-comparison
