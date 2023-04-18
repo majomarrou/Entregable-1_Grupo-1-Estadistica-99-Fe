@@ -51,12 +51,14 @@ La mortalidad infantil es un problema estructural que se refleja a causa de la d
    La importancia del coeficiente de Gini recae en su utilidad para identificar la desigualdad en los ingresos (por familia en este caso) dentro de un país. En ese sentido, esta variable nos ayudará a determinar si la desigualdad económica influye de forma significativa en la mortalidad infantil, siendo que podemos predecir que las familias con menos recursos tienen menos capacidad para brindar atenciones básicas y bienestar a sus infantes. 
   
   **- Índice de pobreza**
+  [Pobreza.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/013c9e9dd8227c1db7eb7a7b66e52979b2e3ddd4/Pobreza.csv)
   
  Mide el nivel de población (en porcentaje) que vive bajo la línea de pobreza por países. Apartado: https://datos.bancomundial.org/indicator/SI.POV.NAHC?name_desc=false/https://www.indexmundi.com/g/r.aspx?v=69&l=es 
  
   El nivel de pobreza en relación con la mortalidad infantil pretende identificar qué porcentaje de la población presenta desventajas económicas relevantes que puedan justificar directa o indirectamente la falta de acceso de los infantes a servicios y necesidades básicas. Según la ONG Manos Unidas (2014) para la lucha contra la pobreza, los niños representan a uno de los grupos más vulnerables ante esta condición debido a su dependencia física, emocional, económica y social. 
  
  **- Índice de saneamiento**
+ [Saneamiento.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/blob/013c9e9dd8227c1db7eb7a7b66e52979b2e3ddd4/Saneamiento.csv)
  
  Mide el nivel de población (en porcentaje) que usa, por lo menos, servicios de saneamiento básicos por países. Apartado: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-at-least-basic-sanitation-services-(-)
 
