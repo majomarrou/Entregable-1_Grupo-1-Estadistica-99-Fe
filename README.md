@@ -37,7 +37,7 @@ _María José_
   Compara la longitud total de la red de carreteras e incluye la longitud de las partes asfaltadas y sin asfaltar.
   Apartado de: https://www.cia.gov/the-world-factbook/field/roadways/country-comparison
 
-  Las carreteras son una variable importante en relacion con la mortlaidad infantil debido a que en la ausencia de ellas, la distribución de recursos es una tarea más retadora que determinaría si es que los infantes recibirían los recursos que necesitan para su supervivencia, de la misma manera, su importancia es necesaria para el traslado del infante a un centro de salud en garantía de aumentar su expectativa de vida ya sea para la vacunación, checkeo médicos o para un emergencia mortal. El Estado está en la responsabilidad de proveer dichas carreteras como un bien público que, a la vez, sería un indicador directo de su capacidad.
+  Las carreteras son una variable importante en relacion con la mortalidad infantil debido a que en la ausencia de ellas, la distribución de recursos es una tarea más retadora que determinaría si es que los infantes recibirían los recursos que necesitan para su supervivencia, de la misma manera, su importancia es necesaria para el traslado del infante a un centro de salud en garantía de aumentar su expectativa de vida ya sea para la vacunación, checkeo médicos o para un emergencia mortal. El Estado está en la responsabilidad de proveer dichas carreteras como un bien público que, a la vez, sería un indicador directo de su capacidad.
 
   **-  Gasto en educación** 
   [Educacion.csv](https://github.com/majomarrou/Trabajo-final-de-Estadistica---Grupo-1-estadistica-99-fe/files/11244705/Educacion.csv)
